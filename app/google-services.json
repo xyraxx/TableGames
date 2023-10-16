@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199729214486",
+    "project_id": "mgd-sample-app",
+    "storage_bucket": "mgd-sample-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199729214486:android:6c50608804658ea1927137",
+        "android_client_info": {
+          "package_name": "com.app.mgdtraining"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMm73cuqvnbX3zvSfOowrywaJtT4L-zsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199729214486:android:76b6d74b5a3d002c927137",
+        "android_client_info": {
+          "package_name": "pgo.roulettepro.tablegames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMm73cuqvnbX3zvSfOowrywaJtT4L-zsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
